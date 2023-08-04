@@ -1,0 +1,13 @@
+.cell:hover{
+    background-color: aliceblue;
+}
+
+#canvas{
+    display: flex;
+    background-color: grey;
+    width: 800px;
+    height: 800px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
